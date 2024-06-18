@@ -1,6 +1,3 @@
-Sure! Here's a detailed README content for the stock stage analysis program:
-
----
 
 # Stock Stage Analysis Program
 
